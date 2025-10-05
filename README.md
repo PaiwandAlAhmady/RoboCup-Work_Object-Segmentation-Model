@@ -1,2 +1,3 @@
-# DL-Object-Segmentation-RoboCup
-Deep Learning project revolving around object segmentation
+# YOLOv11-Object-Segmentation
+Datensatz: RoboCup@Work mit 3 Klassen
+
